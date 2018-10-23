@@ -94,7 +94,7 @@ for i in range(1, length(6)):
     print(l3)
     print(length(6) - count - i)
     
-        
+# test
 
 
 print(l1)
